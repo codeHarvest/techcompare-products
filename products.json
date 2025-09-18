@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 999,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "smartphones",
+      "features": ["A17 Pro chip", "48MP camera system", "Titanium design", "Action Button", "USB-C connector"],
+      "specs": {
+        "display": "6.1-inch Super Retina XDR",
+        "storage": "128GB",
+        "battery": "Up to 23 hours video",
+        "weight": "187g",
+        "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "price": 1199,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "smartphones",
+      "features": ["Snapdragon 8 Gen 3", "200MP camera", "S Pen included", "AI features", "Titanium frame"],
+      "specs": {
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "storage": "256GB",
+        "battery": "5000mAh",
+        "weight": "232g",
+        "colors": ["Titanium Gray", "Titanium Black", "Titanium Violet", "Titanium Yellow"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "brand": "Google",
+      "price": 899,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "smartphones",
+      "features": ["Google Tensor G3", "50MP main camera", "Magic Eraser", "7 years of updates", "Pure Android"],
+      "specs": {
+        "display": "6.7-inch LTPO OLED",
+        "storage": "128GB",
+        "battery": "5050mAh",
+        "weight": "210g",
+        "colors": ["Obsidian", "Porcelain", "Bay"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro 14-inch",
+      "brand": "Apple",
+      "price": 1999,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "laptops",
+      "features": [
+        "M3 Pro chip",
+        "Liquid Retina XDR display",
+        "Up to 18 hours battery",
+        "MagSafe 3",
+        "Three Thunderbolt 4 ports"
+      ],
+      "specs": {
+        "display": "14.2-inch Liquid Retina XDR",
+        "storage": "512GB SSD",
+        "memory": "18GB unified memory",
+        "weight": "1.6kg",
+        "colors": ["Space Gray", "Silver"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 13 Plus",
+      "brand": "Dell",
+      "price": 1299,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "laptops",
+      "features": [
+        "Intel Core i7-1360P",
+        "13.4-inch OLED display",
+        "Zero-lattice keyboard",
+        "Invisible touchpad",
+        "Premium materials"
+      ],
+      "specs": {
+        "display": "13.4-inch OLED 3.5K",
+        "storage": "512GB SSD",
+        "memory": "16GB LPDDR5",
+        "weight": "1.24kg",
+        "colors": ["Platinum Silver", "Graphite"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "price": 1599,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "laptops",
+      "features": [
+        "Intel Core i7-1365U",
+        "14-inch 2.8K OLED",
+        "Military-grade durability",
+        "TrackPoint",
+        "Rapid Charge"
+      ],
+      "specs": {
+        "display": "14-inch 2.8K OLED",
+        "storage": "1TB SSD",
+        "memory": "32GB LPDDR5",
+        "weight": "1.12kg",
+        "colors": ["Black"]
+      }
+    },
+    {
+      "id": 7,
+      "name": "AirPods Pro (2nd gen)",
+      "brand": "Apple",
+      "price": 249,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "headphones",
+      "features": [
+        "H2 chip",
+        "Active Noise Cancellation",
+        "Adaptive Transparency",
+        "Spatial Audio",
+        "MagSafe charging case"
+      ],
+      "specs": {
+        "battery": "Up to 6 hours listening",
+        "case_battery": "Up to 30 hours total",
+        "connectivity": "Bluetooth 5.3",
+        "weight": "5.3g per earbud",
+        "colors": ["White"]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "price": 399,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "headphones",
+      "features": [
+        "Industry-leading noise canceling",
+        "30-hour battery life",
+        "Multipoint connection",
+        "Quick Attention mode",
+        "Speak-to-chat technology"
+      ],
+      "specs": {
+        "battery": "Up to 30 hours",
+        "charging": "3 min charge = 3 hours playback",
+        "connectivity": "Bluetooth 5.2",
+        "weight": "250g",
+        "colors": ["Black", "Silver"]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bose QuietComfort Ultra",
+      "brand": "Bose",
+      "price": 429,
+      "image": "/placeholder.svg?height=300&width=300",
+      "category": "headphones",
+      "features": [
+        "World-class noise cancellation",
+        "Immersive Audio",
+        "CustomTune technology",
+        "24-hour battery",
+        "Premium materials"
+      ],
+      "specs": {
+        "battery": "Up to 24 hours",
+        "charging": "15 min charge = 2.5 hours playback",
+        "connectivity": "Bluetooth 5.3",
+        "weight": "254g",
+        "colors": ["Black", "White Smoke", "Sandstone"]
+      }
+    }
+  ]
+}
